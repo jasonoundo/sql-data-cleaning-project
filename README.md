@@ -7,8 +7,8 @@ A guided data cleaning workflow for Nashville housing data, that uses essential 
 
 ## 📋 Project Overview
 - **Raw Dataset**: [Nashville Housing (Excel)](/data/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
-- **Cleaned Dataset**: [Nashville Housing (Csv)](/Files/data/Nashville%20Housing%20Cleaned.csv)
-- **Script**: [`Data cleaning script`](/Files/scripts/cleaning.sql)
+- **Cleaned Dataset**: [Nashville Housing (Csv)](/data/Nashville%20Housing%20Cleaned.csv)
+- **Script**: [`Data cleaning script`](/scripts/cleaning.sql)
 - **Key Operations**:
   - Missing data imputation
   - Date standardization
@@ -36,7 +36,7 @@ A guided data cleaning workflow for Nashville housing data, that uses essential 
 - Improved table structure for analysis
 
 ## 🛠️ Implementation
-The complete implementation is available in the [`Data cleaning script`](/Files/scripts/cleaning.sql) file, which includes:
+The complete implementation is available in the [`Data cleaning script`](/scripts/cleaning.sql) file, which includes:
 
 1. Date format standardization
 2. Missing address imputation using self-joins
