@@ -6,7 +6,7 @@
 A guided data cleaning workflow for Nashville housing data, that uses essential SQL techniques to handle real-world data.
 
 ## 📋 Project Overview
-- **Raw Dataset**: [Nashville Housing (Excel)](/Files/data/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
+- **Raw Dataset**: [Nashville Housing (Excel)](/data/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
 - **Cleaned Dataset**: [Nashville Housing (Csv)](/Files/data/Nashville%20Housing%20Cleaned.csv)
 - **Script**: [`Data cleaning script`](/Files/scripts/cleaning.sql)
 - **Key Operations**:
